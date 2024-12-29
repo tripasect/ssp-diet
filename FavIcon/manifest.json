@@ -4,7 +4,7 @@
   "start_url": "https://tripasect.github.io/sspdiet/",
   "display": "standalone",
   "background_color": "#FFFFFF",
-  "theme_color": "#71B6D0",
+  "theme_color": "#FFFFFF",
   "icons": [
     {
       "src": "/android-icon-36x36.png",
